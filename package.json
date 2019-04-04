@@ -1,0 +1,25 @@
+{
+  "name": "downloadjs",
+  "version": "0.0.1",
+  "description": "A simple function to force to download your files with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseosmarmartins/DownloadFile.git"
+  },
+  "keywords": [
+    "download",
+    "force",
+    "download",
+    "javascript"
+  ],
+  "author": "José Osmar Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseosmarmartins/DownloadFile/issues"
+  },
+  "homepage": "https://github.com/joseosmarmartins/DownloadFile#readme"
+}
